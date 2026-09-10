@@ -1,0 +1,6 @@
+{
+  "name": "LumoraSpace LMS",
+  "description": "Learning Management System with Admin, Faculty, and Student dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
